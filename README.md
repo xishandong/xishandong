@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I'm interested in python and javascript.
 - 😄I'm currently learning about JavaScript reverse, and Crypto.
 - 🧑‍💻 I usually upload some videos on https://space.bilibili.com/35242527
-- ⚡ Fun fact: python
+- ⚡ Fun fact: python。
 - 📫 How to reach me: xishandong296@gmail.com
 
 ![xishandong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xishandong&show_icons=true&theme=onelight&hide=contribs)
