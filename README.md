@@ -10,5 +10,5 @@
 |![github-stats][github-stats:img]|![github-lang][github-lang:img]|
 |---------------------------------|------------------------------------------|
 
-[github-stats:img]: https://github-readme-stats.vercel.app/api?username=ZiYi0414&show_icons=true&include_all_commits=true&title_color=ecf0f1&icon_color=9b59b6&text_color=ecf0f1&bg_color=2c3e50&custom_title=xishandong~
-[github-lang:img]: https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xishandong
+[github-stats:img]: https://github-readme-stats.vercel.app/api?username=xishandong&show_icons=true&include_all_commits=true&title_color=ecf0f1&icon_color=9b59b6&text_color=ecf0f1&bg_color=2c3e50&custom_title=xishandong~
+[github-lang:img]: [https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xishandong](https://github-readme-stats.vercel.app/api/top-langs/?username=xishandong&layout=compact&theme=onelight&hide=CMake,Makefile)https://github-readme-stats.vercel.app/api/top-langs/?username=xishandong&layout=compact&theme=onelight&hide=CMake,Makefile
