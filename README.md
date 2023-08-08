@@ -13,8 +13,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+xishan+dong;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+)
 
-***
-
 - 🔭 I’m currently majoring in CyberSpace Security.
 - 🌱 I'm interested in python and javascript.
 - 😄I'm currently learning about JavaScript reverse, and Crypto.
@@ -28,7 +26,7 @@
 [github-stats:img]: https://github-readme-stats.vercel.app/api?username=xishandong&show_icons=true&include_all_commits=true&theme=onelight&custom_title=xishandong~
 [github-lang:img]: https://github-readme-stats.vercel.app/api/top-langs/?username=xishandong&layout=compact&theme=onelight&hide=CMake,Makefile
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xishandong" style='postion: center'></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xishandong" style='display: table-cell;vertical-align: middle;text-align: center;'></img>
 
 ## Star History
 
