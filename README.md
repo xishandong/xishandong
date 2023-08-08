@@ -32,6 +32,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xishandong/xishandong&type=Date)
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#xishandong/xishandong&Date" frameBorder="0"></iframe>
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#xishandong/crawlProject&Date" frameBorder="0"></iframe>
 
 ![](assets/Bottom_down.svg)
