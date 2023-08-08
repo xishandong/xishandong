@@ -28,7 +28,7 @@
 [github-stats:img]: https://github-readme-stats.vercel.app/api?username=xishandong&show_icons=true&include_all_commits=true&theme=onelight&custom_title=xishandong~
 [github-lang:img]: https://github-readme-stats.vercel.app/api/top-langs/?username=xishandong&layout=compact&theme=onelight&hide=CMake,Makefile
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xishandong"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xishandong" style='postion: center'></img>
 
 ## Star History
 
