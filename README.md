@@ -30,7 +30,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xishandong/xishandong,xishandong/crawlProject,xishandong/Vue3_web_redbook,xishandong/weibo_crawler&type=Date)](https://star-history.com/#xishandong/xishandong&xishandong/crawlProject&xishandong/Vue3_web_redbook&xishandong/weibo_crawler&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=xishandong/xishandong&Date)](https://api.star-history.com/svg?repos=xishandong/xishandong&Date)
 
 ## ![](assets/Bottom_down.svg)
 
