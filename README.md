@@ -20,6 +20,14 @@
 - ⚡ Fun fact: python, vue, css, javascript。
 - 📫 How to reach me: xishandong296@gmail.com
 
+<!--   GitHub stats graph -->
+
+### 📈 GitHub Activity Graph:
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xishandong&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
+
+![xishandong's github activity graph](https://raw.githubusercontent.com/xishandong/xishandong/output/github-contribution-grid-snake.svg)
+
 |![github-stats][github-stats:img]|![github-lang][github-lang:img]|
 |---------------------------------|------------------------------------------|
 
