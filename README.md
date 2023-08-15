@@ -30,7 +30,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xishandong/xishandong&Date)](https://api.star-history.com/svg?repos=xishandong/xishandong&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=xishandong/xishandong&type=Date)](https://star-history.com/#xishandong/xishandong&Date)
 
-## ![](assets/Bottom_down.svg)
+![](assets/Bottom_down.svg)
 
