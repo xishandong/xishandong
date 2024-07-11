@@ -19,7 +19,8 @@
 - 🧑‍💻 I usually upload some videos on https://space.bilibili.com/35242527
 - ⚡ Fun fact: python, vue, css, javascript。
 - 📫 How to reach me: xishandong296@gmail.com
-
+### my psersonal blog
+[回锅炒辣椒的个人博客](https://www.xsblog.site/)
 <!--   GitHub stats graph -->
 
 ### 📈 GitHub Activity Graph:
